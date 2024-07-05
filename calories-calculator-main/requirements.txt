@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+torchvision
+requests
+python-dotenv
